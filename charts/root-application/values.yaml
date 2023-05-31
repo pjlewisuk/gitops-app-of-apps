@@ -19,6 +19,6 @@ project_source_repo_url: "https://github.com/pjlewisuk/gitops-app-of-apps"
 
 # Repository root-application
 
-repository_metadata_name:  "github.com-thomassuedbroecker-gitops-app-of-apps"
+repository_metadata_name:  "github.com-pjlewisuk-gitops-app-of-apps"
 repository_metadata_namespace: "argocd"
 repository_stringData_url: "https://github.com/pjlewisuk/gitops-app-of-apps"

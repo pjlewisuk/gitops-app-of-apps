@@ -15,7 +15,7 @@ spec:
       valueFiles:
         - values.yaml
     path: "charts/vend-helm"
-    repoURL: "https://github.com/thomassuedbroecker/vend-helm"
+    repoURL: "https://github.com/pjlewisuk/vend-helm"
     targetRevision: HEAD
   syncPolicy:
     retry:
