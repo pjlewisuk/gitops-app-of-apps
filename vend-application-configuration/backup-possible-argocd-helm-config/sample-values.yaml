@@ -1,7 +1,7 @@
 # Application sample-application
 
 sampleapp_metadata_name:  "vend-application"
-sampleapp_metadata_namespace: "openshift-gitops"
+sampleapp_metadata_namespace: "argocd"
 sampleapp_destination_namespace: "vend-application"
 sampleapp_destination_name: "in-cluster"
 sampleapp_project: "root-application"
@@ -11,5 +11,5 @@ sampleapp_source_path: "charts/vend-helm"
 # Repository sample-application
 
 samplerepo_metadata_name:  "github.com-thomassuedbroecker-vend-helm"
-samplerepo_metadata_namespace: "openshift-gitops"
+samplerepo_metadata_namespace: "argocd"
 samplerepo_stringData_url: "https://github.com/thomassuedbroecker/vend-helm"
